@@ -18,7 +18,12 @@
         - *test_L2_RLR.m*
         - *train_L2_RLR.m*
 - [Consented fMRI data](https://ucsf.box.com/s/l4g4nj7ryy6s48p6dtc0c9qraf04za3y)
-    - This is the fMRI data to run the MVPA scripts with.
+    - This is the fMRI data to run the MVPA scripts with. 
+    - Directory: embody_fmri_consented
+- [Consented MVPA output data](https://ucsf.box.com/s/l4g4nj7ryy6s48p6dtc0c9qraf04za3y)
+    - This contains the full MVPA results output for Step 1 and Step 2 (may need this to run demo with 124, files too large for Github)
+    - Also includes spreadsheet of participant demographics and attention metrics
+    - Directory: embody_mvpa_output_consented
     
 -------------------
 ### Installation Guide
